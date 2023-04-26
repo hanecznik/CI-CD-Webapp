@@ -1,2 +1,2 @@
-# Praktice CI/CD
+# Practice CI/CD
 Tworzenie aplikacji webowej przy użyciu Azure DevOps/VSC
