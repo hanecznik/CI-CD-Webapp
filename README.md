@@ -1,4 +1,2 @@
-# MERITO WSB CI/CD
-Weekend 22-23.04.2023
-
+# Praktice CI/CD
 Tworzenie aplikacji webowej przy użyciu Azure DevOps/VSC
